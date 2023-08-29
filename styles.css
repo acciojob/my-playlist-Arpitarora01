@@ -5,10 +5,13 @@ body{
 h1,h2{
 	 text-align: center;
 }
-ul>li{
-		list-style-type: none
+a{
+	text-decoration-line: none;
 }
-video,audio{
+ul>li{
+		list-style-type: none;
+}
+.player_one,.player_two{
 	background-color: rgb(255, 255, 255); 
 	padding: 50px;
 	border-radius: 10px;
